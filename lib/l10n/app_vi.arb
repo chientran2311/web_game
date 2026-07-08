@@ -1,0 +1,23 @@
+{
+  "appName": "Web Game",
+  "welcomeMessage": "Chào mừng, {name}!",
+  "navbar_home": "Trang chủ",
+  "navbar_leaderboard": "Bảng xếp hạng",
+  "navbar_challenges": "Thử thách",
+  "navbar_search_placeholder": "Tìm kiếm tựa game...",
+  "hero_tag": "HỌC QUA TƯƠNG TÁC",
+  "hero_title": "Chơi để lập trình.\nLàm chủ mã nguồn.",
+  "hero_description": "Trải nghiệm phương pháp học tư duy lập trình hoàn toàn mới thông qua các thử thách game logic sinh động và trực quan.",
+  "hero_play_now": "Chơi Ngay",
+  "hero_view_list": "Xem Danh Sách",
+  "recent_played_title": "Game đã mở gần nhất",
+  "recent_played_progress": "Tiến trình",
+  "recent_played_continue": "Tiếp tục",
+  "newly_added_title": "Game mới thêm",
+  "all_games_no_results": "Không tìm thấy tựa game nào phù hợp.",
+  "category_all": "Tất cả",
+  "difficulty_easy": "Dễ",
+  "difficulty_medium": "Trung bình",
+  "difficulty_hard": "Khó",
+  "tag_new": "Mới"
+}

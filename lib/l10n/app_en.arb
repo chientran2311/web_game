@@ -1,0 +1,23 @@
+{
+  "appName": "Web Game",
+  "welcomeMessage": "Welcome, {name}!",
+  "navbar_home": "Home",
+  "navbar_leaderboard": "Leaderboard",
+  "navbar_challenges": "Challenges",
+  "navbar_search_placeholder": "Search games...",
+  "hero_tag": "INTERACTIVE LEARNING",
+  "hero_title": "Play to code.\nMaster the source.",
+  "hero_description": "Experience a brand new programming logic learning approach through vivid and intuitive logic game challenges.",
+  "hero_play_now": "Play Now",
+  "hero_view_list": "View List",
+  "recent_played_title": "Recently Played",
+  "recent_played_progress": "Progress",
+  "recent_played_continue": "Continue",
+  "newly_added_title": "Newly Added",
+  "all_games_no_results": "No matching games found.",
+  "category_all": "All",
+  "difficulty_easy": "Easy",
+  "difficulty_medium": "Medium",
+  "difficulty_hard": "Hard",
+  "tag_new": "New"
+}
